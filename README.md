@@ -1,2 +1,1 @@
-# semana-omnistack-rocketseat-back-end
-Código do back-end construído com Node.js durante a semana OmniStack Rocketseat
+Código do back-end construído com NodeJS durante o curso da semana OmniStack
